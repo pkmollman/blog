@@ -4,7 +4,7 @@
 </script>
 
 <div class="w-8/12 m-auto">
-	<p>Random text</p>
+	<h1 class="text-3xl text-center text-primary-400 mt-6 underline">HOME</h1>
 	<h1 class="text-3xl text-center text-primary-400">Latest Post</h1>
 	<PostLink postentry={posts[0]} />
 </div>
