@@ -24,6 +24,7 @@ func main() {
         `}
 		/>
 		<!-- </div> -->
+	moose
 	</SimplePost>
 </div>
 
